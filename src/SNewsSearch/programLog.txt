@@ -1,0 +1,339 @@
+2017-11-22 00:10:16,312 - DEBUG - Start of code
+2017-11-22 00:10:16,343 - DEBUG - https://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/bitcoin-lap-ky-luc-8-000-usd-3672105.html?utm_source=search_vne
+https://sohoa.vnexpress.net/tin-tuc/doi-song-so/nhung-chieu-lua-dao-bitcoin-pho-bien-3671855.html?utm_source=search_vne
+https://kinhdoanh.vnexpress.net/tin-tuc/ebank/ngan-hang/thong-doc-bi-chat-van-ve-bitcoin-3671498.html?utm_source=search_vne
+https://sohoa.vnexpress.net/tin-tuc/doi-song-so/lam-gi-de-chuan-bi-cho-cuoc-cach-mang-bitcoin-3672757.html?utm_source=search_vne
+https://sohoa.vnexpress.net/tin-tuc/doi-song-so/bitcoin-mua-duoc-nhung-gi-3661772.html?utm_source=search_vne
+https://sohoa.vnexpress.net/photo/san-pham/ben-trong-xuong-dao-bitcoin-tri-gia-chuc-trieu-usd-3668025.html?utm_source=search_vne
+https://sohoa.vnexpress.net/tin-tuc/doi-song-so/luot-tim-kiem-mua-bitcoin-nhieu-hon-mua-vang-3667602.html?utm_source=search_vne
+https://kinhdoanh.vnexpress.net/tin-tuc/ebank/jack-ma-toi-khong-biet-gi-ve-bitcoin-3666841.html?utm_source=search_vne
+https://kinhdoanh.vnexpress.net/tin-tuc/ebank/dai-dien-deloitte-chua-co-su-thong-nhat-trong-quan-ly-bitcoin-3671354.html?utm_source=search_vne
+https://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/gia-bitcoin-tai-zimbabwe-tang-len-13-500-usd-do-bat-on-chinh-tri-3671367.html?utm_source=search_vne
+https://sohoa.vnexpress.net/tin-tuc/doi-song-so/bao-mat/280-trieu-usd-tien-ao-bi-vo-hieu-hoa-vi-loi-nguoi-dung-3667239.html?utm_source=search_vne
+https://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/tien-ao-the-gioi-dong-loat-lao-doc-3612262.html?utm_source=search_vne
+https://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/gia-tien-ao-bitcoin-lap-ky-luc-hon-3-300-usd-3623500.html?utm_source=search_vne
+/bitcoin-lai-vuot-nguong-8000-usd-2017112014413966.htm
+/ma-doc-coinhive-mat-phuc-cho-moc-bop-tho-dao-bitcoin-20171116164548211.htm
+https://tuoitre.vn/bitcoin-lai-vuot-nguong-8000-usd-2017112014413966.htm
+https://tuoitre.vn/ma-doc-coinhive-mat-phuc-cho-moc-bop-tho-dao-bitcoin-20171116164548211.htm
+https://tuoitre.vn/kinh-doanh-bitcoin-thue-muon-thu-2-6-ti-toa-tuyen-0-dong-20171115160517126.htm
+https://tuoitre.vn/bitcoin-rot-hon-2-200-usd-sau-5-ngay-20171113152533065.htm
+https://tuoitre.vn/gia-bitcoin-nhay-mua-chenh-nhau-hon-1000-usd-trong-48-gio-qua-20171113113712649.htm
+https://tuoitre.vn/an-do-quay-lung-voi-bitcoin-va-cac-dong-tien-dien-tu-khac-20171108095931817.htm
+https://tuoitre.vn/an-do-quay-lung-voi-bitcoin-va-cac-dong-tien-ao-khac-20171108092206653.htm
+https://tuoitre.vn/thu-thuat-tan-cong-bitcoin-tinh-vi-ma-nguoi-dung-can-luu-y-20171106104439846.htm
+https://tuoitre.vn/vuot-7-395-usd-bong-bong-bitcoin-bi-canh-bao-se-vo-tran-2017110315402603.htm
+https://tuoitre.vn/dong-bitcoin-lai-lap-ky-luc-moi-ve-gia-hon-6500-usd-2017110210244924.htm
+https://tuoitre.vn/nen-ung-xu-nhu-the-nao-voi-bitcoin-20171101161240487.htm
+https://tuoitre.vn/ngan-hang-nha-nuoc-khuyen-cao-khong-nen-dau-tu-bitcoin-20171101114233026.htm
+https://tuoitre.vn/dieu-gi-khien-bitcoin-lay-lai-phong-do-vuot-6000-usd-20171030142013696.htm
+https://tuoitre.vn/nha-nuoc-cam-cua-bitcoin-dai-hoc-fpt-noi-gi-20171029110751111.htm
+https://tuoitre.vn/ngan-hang-nha-nuoc-tuyen-bo-cam-su-dung-bitcoin-20171028102135916.htm
+https://tuoitre.vn/dh-fpt-thu-hoc-phi-bang-bitcoin-co-dung-quy-dinh-20171027185236056.htm
+https://tuoitre.vn/xon-xao-truong-dh-fpt-chap-nhan-thu-hoc-phi-bang-bitcoin-2000010135997.htm
+https://tuoitre.vn/dh-fpt-chap-nhan-thu-hoc-phi-bang-bitcoin-20171026224058222.htm
+https://tuoitre.vn/bitcoin-dat-ky-luc-moi-ve-gia-tren-5100-usd-20171012220641526.htm
+https://tuoitre.vn/bitcoin-lai-dat-muc-cao-nhat-trong-1-thang-gan-day-20171009173528963.htm
+https://tuoitre.vn/giam-doc-quy-tien-te-quoc-te-khong-cam-cua-bitcoin-20170930154849516.htm
+https://tuoitre.vn/bitcoin-rot-tham-gioi-dau-tu-viet-cung-lao-dao-20170916163328015.htm
+https://tuoitre.vn/bitcoin-ke-thay-doi-cuoc-choi-hay-chi-la-bong-bong-1386241.htm
+https://tuoitre.vn/bong-bong-bitcoin-xi-hoi-20170915153447406.htm
+https://tuoitre.vn/cho-bitcoin-rung-lac-truoc-tin-don-20170915095728207.htm
+https://tuoitre.vn/lanh-dao-p-morgan-bitcoin-chi-la-tro-lua-20170914085826499.htm
+https://tuoitre.vn/giai-ma-suc-manh-cua-bitcoin-2017091214471539.htm
+https://tuoitre.vn/hacker-bat-dau-nham-thang-den-vi-bitcoin-20170911123026519.htm
+https://tuoitre.vn/lung-tung-voi-chuyen-doanh-nghiep-xin-nhap-may-dao-bitcoin-1377568.htm
+https://tuoitre.vn/cang-thang-chinh-tri-day-gia-bitcoin-len-hon-4000-usd-20170814131938454.htm
+http://www.coincalendar.info/events/bitcoin-cash-bch-hard-fork/
+http://www.coincalendar.info/events/bitcoin-cash-bcc-hard-fork/
+http://www.coincalendar.info/events/bitcoin-cash-bch-hard-fork/
+http://www.coincalendar.info/events/bitcoin-cash-bcc-hard-fork/
+
+2017-11-22 00:10:16,351 - DEBUG - Starting new HTTP connection (1): www.coincalendar.info
+2017-11-22 00:10:21,038 - DEBUG - http://www.coincalendar.info:80 "GET / HTTP/1.1" 200 None
+2017-11-22 00:10:23,783 - DEBUG - search: bitcoin in Groestlcoin ($GRS) - Roadmap Release
+2017-11-22 00:10:23,784 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:23,788 - DEBUG - search: bitcoin in Rebellious ($REBL) - Free Airdrop
+2017-11-22 00:10:23,789 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:23,793 - DEBUG - search: bitcoin in Matchpool ($GUP) - Partnership with QTUM
+2017-11-22 00:10:23,794 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:23,799 - DEBUG - search: bitcoin in VOISE ($VOISE) - Alpha Release V 0.2
+2017-11-22 00:10:23,800 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:23,804 - DEBUG - search: bitcoin in Asch ($XAS) To Be Listed On KEX
+2017-11-22 00:10:23,804 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:23,808 - DEBUG - search: bitcoin in Coinrail To List Monero ($XMR) IOTA ($MIOTA) And Waves ($WAVES)
+2017-11-22 00:10:23,808 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:23,813 - DEBUG - search: bitcoin in Internet of People ($IOP) - Bluepaper Release
+2017-11-22 00:10:23,814 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:23,820 - DEBUG - search: bitcoin in Senderon ($SDRN) - Rebranding
+2017-11-22 00:10:23,820 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:23,824 - DEBUG - search: bitcoin in Zoin ($ZOI) - New Wallet Release
+2017-11-22 00:10:23,824 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:23,829 - DEBUG - search: bitcoin in BitSend ($BSD) - SegWit Activation
+2017-11-22 00:10:23,829 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:23,834 - DEBUG - search: bitcoin in Bitshares ($BTS) - Core Client Update
+2017-11-22 00:10:23,834 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:23,838 - DEBUG - search: bitcoin in BitBay ($BAY) - Web Wallet Release
+2017-11-22 00:10:23,839 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:23,844 - DEBUG - search: bitcoin in Bitshares ($BTS) - Core Client Update
+2017-11-22 00:10:23,845 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:23,849 - DEBUG - search: bitcoin in I/O Coin (IOC) - Blockchain Upgrade
+2017-11-22 00:10:23,850 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:23,854 - DEBUG - search: bitcoin in Voise ($VOISE) To Be Listed on TopBTC
+2017-11-22 00:10:23,854 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:23,858 - DEBUG - search: bitcoin in Coinrail To List Steem ($STEEM) Komodo ($KMD) And Cardano ($ADA)
+2017-11-22 00:10:23,858 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:23,863 - DEBUG - search: bitcoin in BitBay ($BAY) - Stake Reward Increase
+2017-11-22 00:10:23,863 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:23,871 - DEBUG - search: bitcoin in Triggers ($TRIG) - Master Nodes Announcement
+2017-11-22 00:10:23,871 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:23,877 - DEBUG - search: bitcoin in BitBay ($BAY) - Hard Fork
+2017-11-22 00:10:23,878 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:23,882 - DEBUG - search: bitcoin in Groestlcoin ($GRS) - Roadmap Release
+2017-11-22 00:10:23,882 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:23,886 - DEBUG - search: bitcoin in Rebellious ($REBL) - Free Airdrop
+2017-11-22 00:10:23,887 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:23,890 - DEBUG - search: bitcoin in Matchpool ($GUP) - Partnership with QTUM
+2017-11-22 00:10:23,891 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:23,895 - DEBUG - search: bitcoin in VOISE ($VOISE) - Alpha Release V 0.2
+2017-11-22 00:10:23,896 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:23,901 - DEBUG - search: bitcoin in Asch ($XAS) To Be Listed On KEX
+2017-11-22 00:10:23,901 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:23,905 - DEBUG - search: bitcoin in Coinrail To List Monero ($XMR) IOTA ($MIOTA) And Waves ($WAVES)
+2017-11-22 00:10:23,906 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:23,909 - DEBUG - search: bitcoin in Internet of People ($IOP) - Bluepaper Release
+2017-11-22 00:10:23,910 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:23,913 - DEBUG - search: bitcoin in Senderon ($SDRN) - Rebranding
+2017-11-22 00:10:23,914 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:23,919 - DEBUG - search: bitcoin in Zoin ($ZOI) - New Wallet Release
+2017-11-22 00:10:23,919 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:23,923 - DEBUG - search: bitcoin in BitSend ($BSD) - SegWit Activation
+2017-11-22 00:10:23,924 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:23,930 - DEBUG - search: bitcoin in Bitshares ($BTS) - Core Client Update
+2017-11-22 00:10:23,930 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:23,935 - DEBUG - search: bitcoin in BitBay ($BAY) - Web Wallet Release
+2017-11-22 00:10:23,936 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:23,940 - DEBUG - search: bitcoin in Bitshares ($BTS) - Core Client Update
+2017-11-22 00:10:23,940 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:23,944 - DEBUG - search: bitcoin in I/O Coin (IOC) - Blockchain Upgrade
+2017-11-22 00:10:23,944 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:23,949 - DEBUG - search: bitcoin in Voise ($VOISE) To Be Listed on TopBTC
+2017-11-22 00:10:23,950 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:23,954 - DEBUG - search: bitcoin in Coinrail To List Steem ($STEEM) Komodo ($KMD) And Cardano ($ADA)
+2017-11-22 00:10:23,954 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:23,958 - DEBUG - search: bitcoin in BitBay ($BAY) - Stake Reward Increase
+2017-11-22 00:10:23,959 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:23,963 - DEBUG - search: bitcoin in Triggers ($TRIG) - Master Nodes Announcement
+2017-11-22 00:10:23,964 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:23,969 - DEBUG - search: bitcoin in BitBay ($BAY) - Hard Fork
+2017-11-22 00:10:23,970 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:23,974 - DEBUG - search: bitcoin in Groestlcoin ($GRS) - Development Release
+2017-11-22 00:10:23,974 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:23,979 - DEBUG - search: bitcoin in EOS ($EOS) - Public Testnet
+2017-11-22 00:10:23,980 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:23,985 - DEBUG - search: bitcoin in Coinrail To List Neo ($NEO) And Gas ($GAS)
+2017-11-22 00:10:23,986 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:23,990 - DEBUG - search: bitcoin in Einsteinium ($EMC2) - Hard Fork
+2017-11-22 00:10:23,990 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:23,994 - DEBUG - search: bitcoin in Bitcoin ($BTC) - CME Group Bitcoin Futures Launch Date
+2017-11-22 00:10:23,994 - DEBUG - re_search type: <class '_sre.SRE_Match'>
+2017-11-22 00:10:29,324 - DEBUG - search: bitcoin in Wagerr ($WGR) - Mainnet Launch
+2017-11-22 00:10:29,325 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:29,329 - DEBUG - search: bitcoin in AdEx ($ADX) - Beta Release
+2017-11-22 00:10:29,329 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:29,333 - DEBUG - search: bitcoin in Rebellious ($REBL) - Free Airdrop
+2017-11-22 00:10:29,334 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:29,338 - DEBUG - search: bitcoin in Groestlcoin ($GRS) - Roadmap Release
+2017-11-22 00:10:29,338 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:39,444 - DEBUG - Starting new HTTP connection (1): www.coincalendar.info
+2017-11-22 00:10:43,579 - DEBUG - http://www.coincalendar.info:80 "GET / HTTP/1.1" 200 None
+2017-11-22 00:10:46,317 - DEBUG - search: ethereum in Groestlcoin ($GRS) - Roadmap Release
+2017-11-22 00:10:46,318 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:46,325 - DEBUG - search: ethereum in Rebellious ($REBL) - Free Airdrop
+2017-11-22 00:10:46,325 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:46,330 - DEBUG - search: ethereum in Matchpool ($GUP) - Partnership with QTUM
+2017-11-22 00:10:46,331 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:46,335 - DEBUG - search: ethereum in VOISE ($VOISE) - Alpha Release V 0.2
+2017-11-22 00:10:46,335 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:46,339 - DEBUG - search: ethereum in Asch ($XAS) To Be Listed On KEX
+2017-11-22 00:10:46,340 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:46,344 - DEBUG - search: ethereum in Coinrail To List Monero ($XMR) IOTA ($MIOTA) And Waves ($WAVES)
+2017-11-22 00:10:46,345 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:46,349 - DEBUG - search: ethereum in Internet of People ($IOP) - Bluepaper Release
+2017-11-22 00:10:46,350 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:46,354 - DEBUG - search: ethereum in Senderon ($SDRN) - Rebranding
+2017-11-22 00:10:46,354 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:46,360 - DEBUG - search: ethereum in Zoin ($ZOI) - New Wallet Release
+2017-11-22 00:10:46,360 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:46,366 - DEBUG - search: ethereum in BitSend ($BSD) - SegWit Activation
+2017-11-22 00:10:46,367 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:46,371 - DEBUG - search: ethereum in Bitshares ($BTS) - Core Client Update
+2017-11-22 00:10:46,373 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:46,381 - DEBUG - search: ethereum in BitBay ($BAY) - Web Wallet Release
+2017-11-22 00:10:46,381 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:46,386 - DEBUG - search: ethereum in Bitshares ($BTS) - Core Client Update
+2017-11-22 00:10:46,386 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:46,390 - DEBUG - search: ethereum in I/O Coin (IOC) - Blockchain Upgrade
+2017-11-22 00:10:46,391 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:46,396 - DEBUG - search: ethereum in Voise ($VOISE) To Be Listed on TopBTC
+2017-11-22 00:10:46,397 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:46,401 - DEBUG - search: ethereum in Coinrail To List Steem ($STEEM) Komodo ($KMD) And Cardano ($ADA)
+2017-11-22 00:10:46,401 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:46,405 - DEBUG - search: ethereum in BitBay ($BAY) - Stake Reward Increase
+2017-11-22 00:10:46,405 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:46,411 - DEBUG - search: ethereum in Triggers ($TRIG) - Master Nodes Announcement
+2017-11-22 00:10:46,411 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:46,416 - DEBUG - search: ethereum in BitBay ($BAY) - Hard Fork
+2017-11-22 00:10:46,417 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:46,420 - DEBUG - search: ethereum in Groestlcoin ($GRS) - Roadmap Release
+2017-11-22 00:10:46,421 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:46,426 - DEBUG - search: ethereum in Rebellious ($REBL) - Free Airdrop
+2017-11-22 00:10:46,427 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:46,431 - DEBUG - search: ethereum in Matchpool ($GUP) - Partnership with QTUM
+2017-11-22 00:10:46,431 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:46,435 - DEBUG - search: ethereum in VOISE ($VOISE) - Alpha Release V 0.2
+2017-11-22 00:10:46,436 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:46,441 - DEBUG - search: ethereum in Asch ($XAS) To Be Listed On KEX
+2017-11-22 00:10:46,441 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:46,447 - DEBUG - search: ethereum in Coinrail To List Monero ($XMR) IOTA ($MIOTA) And Waves ($WAVES)
+2017-11-22 00:10:46,447 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:46,451 - DEBUG - search: ethereum in Internet of People ($IOP) - Bluepaper Release
+2017-11-22 00:10:46,451 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:46,455 - DEBUG - search: ethereum in Senderon ($SDRN) - Rebranding
+2017-11-22 00:10:46,456 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:46,460 - DEBUG - search: ethereum in Zoin ($ZOI) - New Wallet Release
+2017-11-22 00:10:46,461 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:46,465 - DEBUG - search: ethereum in BitSend ($BSD) - SegWit Activation
+2017-11-22 00:10:46,466 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:46,470 - DEBUG - search: ethereum in Bitshares ($BTS) - Core Client Update
+2017-11-22 00:10:46,470 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:46,475 - DEBUG - search: ethereum in BitBay ($BAY) - Web Wallet Release
+2017-11-22 00:10:46,475 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:46,480 - DEBUG - search: ethereum in Bitshares ($BTS) - Core Client Update
+2017-11-22 00:10:46,480 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:46,484 - DEBUG - search: ethereum in I/O Coin (IOC) - Blockchain Upgrade
+2017-11-22 00:10:46,484 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:46,489 - DEBUG - search: ethereum in Voise ($VOISE) To Be Listed on TopBTC
+2017-11-22 00:10:46,489 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:46,493 - DEBUG - search: ethereum in Coinrail To List Steem ($STEEM) Komodo ($KMD) And Cardano ($ADA)
+2017-11-22 00:10:46,494 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:46,498 - DEBUG - search: ethereum in BitBay ($BAY) - Stake Reward Increase
+2017-11-22 00:10:46,499 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:46,503 - DEBUG - search: ethereum in Triggers ($TRIG) - Master Nodes Announcement
+2017-11-22 00:10:46,504 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:46,509 - DEBUG - search: ethereum in BitBay ($BAY) - Hard Fork
+2017-11-22 00:10:46,509 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:46,514 - DEBUG - search: ethereum in Groestlcoin ($GRS) - Development Release
+2017-11-22 00:10:46,515 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:46,519 - DEBUG - search: ethereum in EOS ($EOS) - Public Testnet
+2017-11-22 00:10:46,519 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:46,525 - DEBUG - search: ethereum in Coinrail To List Neo ($NEO) And Gas ($GAS)
+2017-11-22 00:10:46,526 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:46,531 - DEBUG - search: ethereum in Einsteinium ($EMC2) - Hard Fork
+2017-11-22 00:10:46,532 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:46,537 - DEBUG - search: ethereum in Bitcoin ($BTC) - CME Group Bitcoin Futures Launch Date
+2017-11-22 00:10:46,537 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:46,545 - DEBUG - search: ethereum in Wagerr ($WGR) - Mainnet Launch
+2017-11-22 00:10:46,545 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:46,550 - DEBUG - search: ethereum in AdEx ($ADX) - Beta Release
+2017-11-22 00:10:46,550 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:46,555 - DEBUG - search: ethereum in Rebellious ($REBL) - Free Airdrop
+2017-11-22 00:10:46,555 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:46,561 - DEBUG - search: ethereum in Groestlcoin ($GRS) - Roadmap Release
+2017-11-22 00:10:46,562 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:49,718 - DEBUG - Starting new HTTP connection (1): www.coincalendar.info
+2017-11-22 00:10:53,705 - DEBUG - http://www.coincalendar.info:80 "GET / HTTP/1.1" 200 None
+2017-11-22 00:10:57,697 - DEBUG - search: iota in Groestlcoin ($GRS) - Roadmap Release
+2017-11-22 00:10:57,698 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:57,703 - DEBUG - search: iota in Rebellious ($REBL) - Free Airdrop
+2017-11-22 00:10:57,703 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:57,707 - DEBUG - search: iota in Matchpool ($GUP) - Partnership with QTUM
+2017-11-22 00:10:57,708 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:57,713 - DEBUG - search: iota in VOISE ($VOISE) - Alpha Release V 0.2
+2017-11-22 00:10:57,713 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:57,720 - DEBUG - search: iota in Asch ($XAS) To Be Listed On KEX
+2017-11-22 00:10:57,720 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:10:57,724 - DEBUG - search: iota in Coinrail To List Monero ($XMR) IOTA ($MIOTA) And Waves ($WAVES)
+2017-11-22 00:10:57,725 - DEBUG - re_search type: <class '_sre.SRE_Match'>
+2017-11-22 00:11:03,713 - DEBUG - search: iota in Internet of People ($IOP) - Bluepaper Release
+2017-11-22 00:11:03,713 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:11:03,721 - DEBUG - search: iota in Senderon ($SDRN) - Rebranding
+2017-11-22 00:11:03,722 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:11:03,728 - DEBUG - search: iota in Zoin ($ZOI) - New Wallet Release
+2017-11-22 00:11:03,729 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:11:03,737 - DEBUG - search: iota in BitSend ($BSD) - SegWit Activation
+2017-11-22 00:11:03,737 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:11:03,748 - DEBUG - search: iota in Bitshares ($BTS) - Core Client Update
+2017-11-22 00:11:03,748 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:11:03,758 - DEBUG - search: iota in BitBay ($BAY) - Web Wallet Release
+2017-11-22 00:11:03,759 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:11:03,766 - DEBUG - search: iota in Bitshares ($BTS) - Core Client Update
+2017-11-22 00:11:03,766 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:11:03,775 - DEBUG - search: iota in I/O Coin (IOC) - Blockchain Upgrade
+2017-11-22 00:11:03,776 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:11:03,784 - DEBUG - search: iota in Voise ($VOISE) To Be Listed on TopBTC
+2017-11-22 00:11:03,784 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:11:03,791 - DEBUG - search: iota in Coinrail To List Steem ($STEEM) Komodo ($KMD) And Cardano ($ADA)
+2017-11-22 00:11:03,792 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:11:03,801 - DEBUG - search: iota in BitBay ($BAY) - Stake Reward Increase
+2017-11-22 00:11:03,802 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:11:03,809 - DEBUG - search: iota in Triggers ($TRIG) - Master Nodes Announcement
+2017-11-22 00:11:03,809 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:11:03,817 - DEBUG - search: iota in BitBay ($BAY) - Hard Fork
+2017-11-22 00:11:03,817 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:11:03,825 - DEBUG - search: iota in Groestlcoin ($GRS) - Roadmap Release
+2017-11-22 00:11:03,825 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:11:03,832 - DEBUG - search: iota in Rebellious ($REBL) - Free Airdrop
+2017-11-22 00:11:03,832 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:11:03,840 - DEBUG - search: iota in Matchpool ($GUP) - Partnership with QTUM
+2017-11-22 00:11:03,840 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:11:03,847 - DEBUG - search: iota in VOISE ($VOISE) - Alpha Release V 0.2
+2017-11-22 00:11:03,847 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:11:03,855 - DEBUG - search: iota in Asch ($XAS) To Be Listed On KEX
+2017-11-22 00:11:03,855 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:11:03,868 - DEBUG - search: iota in Coinrail To List Monero ($XMR) IOTA ($MIOTA) And Waves ($WAVES)
+2017-11-22 00:11:03,868 - DEBUG - re_search type: <class '_sre.SRE_Match'>
+2017-11-22 00:11:15,668 - DEBUG - search: iota in Internet of People ($IOP) - Bluepaper Release
+2017-11-22 00:11:15,668 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:11:15,676 - DEBUG - search: iota in Senderon ($SDRN) - Rebranding
+2017-11-22 00:11:15,677 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:11:15,684 - DEBUG - search: iota in Zoin ($ZOI) - New Wallet Release
+2017-11-22 00:11:15,685 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:11:15,693 - DEBUG - search: iota in BitSend ($BSD) - SegWit Activation
+2017-11-22 00:11:15,695 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:11:15,704 - DEBUG - search: iota in Bitshares ($BTS) - Core Client Update
+2017-11-22 00:11:15,704 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:11:15,711 - DEBUG - search: iota in BitBay ($BAY) - Web Wallet Release
+2017-11-22 00:11:15,712 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:11:15,718 - DEBUG - search: iota in Bitshares ($BTS) - Core Client Update
+2017-11-22 00:11:15,718 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:11:15,722 - DEBUG - search: iota in I/O Coin (IOC) - Blockchain Upgrade
+2017-11-22 00:11:15,722 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:11:15,729 - DEBUG - search: iota in Voise ($VOISE) To Be Listed on TopBTC
+2017-11-22 00:11:15,730 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:11:15,738 - DEBUG - search: iota in Coinrail To List Steem ($STEEM) Komodo ($KMD) And Cardano ($ADA)
+2017-11-22 00:11:15,738 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:11:15,748 - DEBUG - search: iota in BitBay ($BAY) - Stake Reward Increase
+2017-11-22 00:11:15,749 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:11:15,755 - DEBUG - search: iota in Triggers ($TRIG) - Master Nodes Announcement
+2017-11-22 00:11:15,755 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:11:15,762 - DEBUG - search: iota in BitBay ($BAY) - Hard Fork
+2017-11-22 00:11:15,763 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:11:15,769 - DEBUG - search: iota in Groestlcoin ($GRS) - Development Release
+2017-11-22 00:11:15,770 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:11:15,778 - DEBUG - search: iota in EOS ($EOS) - Public Testnet
+2017-11-22 00:11:15,779 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:11:15,786 - DEBUG - search: iota in Coinrail To List Neo ($NEO) And Gas ($GAS)
+2017-11-22 00:11:15,787 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:11:15,793 - DEBUG - search: iota in Einsteinium ($EMC2) - Hard Fork
+2017-11-22 00:11:15,794 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:11:15,801 - DEBUG - search: iota in Bitcoin ($BTC) - CME Group Bitcoin Futures Launch Date
+2017-11-22 00:11:15,801 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:11:15,808 - DEBUG - search: iota in Wagerr ($WGR) - Mainnet Launch
+2017-11-22 00:11:15,809 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:11:15,817 - DEBUG - search: iota in AdEx ($ADX) - Beta Release
+2017-11-22 00:11:15,817 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:11:15,827 - DEBUG - search: iota in Rebellious ($REBL) - Free Airdrop
+2017-11-22 00:11:15,828 - DEBUG - re_search type: <class 'NoneType'>
+2017-11-22 00:11:15,835 - DEBUG - search: iota in Groestlcoin ($GRS) - Roadmap Release
+2017-11-22 00:11:15,836 - DEBUG - re_search type: <class 'NoneType'>

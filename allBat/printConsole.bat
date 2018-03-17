@@ -1,0 +1,1 @@
+@py.exe C:\001MyPythonScript\SCoinmarket\printConsole.py %*
