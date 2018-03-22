@@ -1,0 +1,22 @@
+Scipt to interact with Word Office file
+
+## To open docx file:
+import docx
+chap04 = docx.Document('/home/manh/Documents/01.STCL/Chap 04-Xem xet yeu cau hop dong.docx')
+
+## To read content of chap 04
+chap04.paragraphs[30]
+
+## To check style of paragraph
+chap04.paragraphs[30].style
+    
+## To check style name of doc
+print(chap04.styles[0])
+
+## To change font size of style
+from docx.shared import Pt
+chap04.styles['Normal 1'].font.size = Pt(10)
+
+## To save doc
+chap04.save('chap04-new.docx')
+
