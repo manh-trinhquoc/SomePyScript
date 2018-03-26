@@ -56,6 +56,7 @@ for each_file in os.listdir(user_abs_path):
         if (user_style in file_docx.styles):
             file_docx.styles[user_style].font.size = Pt(dic_user_style[user_style])
     # Save as ...-new.docx
-    file_full_path_new = os.path.join(user_abs_path,file_name + '_new.docx')
+    file_full_path_new = os.path.join(user_abs_path,file_name + '.docx')
     file_docx.save(file_full_path_new)
     logging.debug('save new docx file:{0}'.format(file_full_path_new))
+input('Program finished. Press any key to quit.')
