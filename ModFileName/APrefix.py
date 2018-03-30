@@ -1,13 +1,32 @@
 #!/usr/bin/env python
 # APrefix.py - Add prefix to all file in folder.
 
-import shutil, os #shutil to change file name. os to get list of all file in folder.
+import shutil #shutil to change file name.
+import os # os to get list of all file in folder.
+import logging  # logging error
+
+
+logging.basicConfig(level=logging.DEBUG,
+                    format='%(asctime)s - %(levelname)s - %(message)s')
+logging.disable(logging.DEBUG)
+logging.debug('Start of code')
+
+# function to get user path. keep promp user if invalid path
+def get_user_path():
+    # check path exist and promt user
+    while True:
+        user_abs_path = input('absolute path to the folder:\n')
+        if (os.path.exists(user_abs_path)):
+            break
+    logging.debug(user_abs_path)
+    return user_abs_path
+
 flag_cont_program = True #Set flag to False to end program
 flag_prompt_user_input_command = True #Set flag to False so program does not prompt user command
 user_input_command = '' #ok, ok A, Sk, change, End
 while(flag_cont_program):
     #Prompt user to enter path to directory
-    user_input_path = input('Enter path to directory:\n')
+    user_input_path = get_user_path()
     #Prompt user to enter prefix
     user_input_prefix = input ('Enter Prefix to add:\n')
     #Loop over files in the directory

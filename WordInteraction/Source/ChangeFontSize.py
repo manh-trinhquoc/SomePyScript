@@ -26,6 +26,15 @@ def is_extension(file_name, file_extension):
     else:
         return True
 
+# function to get user path. keep promp user if invalid path
+def get_user_path():
+    # check path exist and promt user
+    while True:
+        user_abs_path = input('absolute path to the folder:\n')
+        if (os.path.exists(user_abs_path)):
+            break
+    logging.debug(user_abs_path)
+    return user_abs_path
 # User input style 1, size 1, style 2, size 2...
 user_string = input('list of style and size: style 1, size, style 2, size 2..\n')
 
@@ -39,12 +48,7 @@ for count in range(len(list_string)):
         except:
             pass
 # User input absolute path
-# check path exist and promt user
-while True:
-    user_abs_path = input('absolute path to the folder:\n')
-    if (os.path.exists(user_abs_path)):
-        break
-logging.debug(user_abs_path)
+user_abs_path = get_user_path()
 # open word file
 #Loop over files in the directory
 for each_file in os.listdir(user_abs_path):

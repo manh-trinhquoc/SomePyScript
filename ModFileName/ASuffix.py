@@ -1,32 +1,50 @@
 #!/usr/bin/env python
 # ASuffix.py - Add suffix to all file in folder.
 
-import shutil, os #shutil to change file name. os to get list of all file in folder.
+import shutil # shutil to change file name.
+import os #os to get list of all file in folder.
 import re #Regex to find .ext
-flag_cont_program = True #Set flag to False to end program
-flag_prompt_user_input_command = True #Set flag to False so program does not prompt user command
-user_input_command = '' #ok, ok A, Sk, change, End
+import logging  # logging error
+
+
+logging.basicConfig(level=logging.DEBUG,
+                    format='%(asctime)s - %(levelname)s - %(message)s')
+logging.disable(logging.DEBUG)
+logging.debug('Start of code')
 
 #Define function to get new_full_path of file. Input file_path, file_name, suffix
 def get_new_full_path(file_path, file_name, suffix):
     #Use regex to find filename.ext.
     ext_path = re.search(r'(\.\w*)$',file_name)
     if ext_path == None:
-    	#Join file path, filename + suffix
-    	return os.path.join (file_path, file_name + suffix)
+        #Join file path, filename + suffix
+        return os.path.join (file_path, file_name + suffix)
     else:
         #Split filename and .ext.
         file_name_split = file_name.split('.')
         #Join filename + suffix + .ext
         file_name = file_name_split[0]
         for each in range(1,len(file_name_split)-1):
-        	file_name = file_name +'.' + file_name_split[each]
+            file_name = file_name +'.' + file_name_split[each]
         file_name = file_name + suffix + '.' + file_name_split[len(file_name_split)-1]
         return os.path.join (file_path, file_name)
+# function to get user path. keep promp user if invalid path
+def get_user_path():
+    # check path exist and promt user
+    while True:
+        user_abs_path = input('absolute path to the folder:\n')
+        if (os.path.exists(user_abs_path)):
+            break
+    logging.debug(user_abs_path)
+    return user_abs_path
+
+flag_cont_program = True #Set flag to False to end program
+flag_prompt_user_input_command = True #Set flag to False so program does not prompt user command
+user_input_command = '' #ok, ok A, Sk, change, End
 
 while(flag_cont_program):
     #Prompt user to enter path to directory
-    user_input_path = input('Enter path to directory:\n')
+    user_input_path = get_user_path()
     #Prompt user to enter suffix
     user_input_suffix = input ('Enter suffix to add:\n')
     #Loop over files in the directory
