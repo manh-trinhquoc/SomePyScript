@@ -11,14 +11,12 @@ user_input_command = '' #ok, ok A, Sk, change, End
 def get_new_full_path(file_path, file_name, suffix):
     #Use regex to find filename.ext.
     ext_path = re.search(r'(\.\w*)$',file_name)
-    #print (ext_path) #comment out when finished
     if ext_path == None:
     	#Join file path, filename + suffix
     	return os.path.join (file_path, file_name + suffix)
     else:
         #Split filename and .ext.
         file_name_split = file_name.split('.')
-        #print (file_name_split) #comment out when finished
         #Join filename + suffix + .ext
         file_name = file_name_split[0]
         for each in range(1,len(file_name_split)-1):

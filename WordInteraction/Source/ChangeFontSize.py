@@ -9,12 +9,22 @@ import docx  # docx module
 from docx.shared import Pt  # font module
 import os  # open file path
 import logging  # logging error
+import re #Regex to find .ext
 
 
 logging.basicConfig(level=logging.DEBUG,
                     format='%(asctime)s - %(levelname)s - %(message)s')
 logging.disable(logging.DEBUG)
 logging.debug('Start of code')
+
+# function to check file extension. do not include "."
+def is_extension(file_name, file_extension):
+    #Use regex to find filename.ext.
+    ext_path = re.search('(\.{})$'.format(file_extension),file_name)
+    if ext_path == None:
+        return False
+    else:
+        return True
 
 # User input style 1, size 1, style 2, size 2...
 user_string = input('list of style and size: style 1, size, style 2, size 2..\n')
@@ -40,12 +50,7 @@ logging.debug(user_abs_path)
 for each_file in os.listdir(user_abs_path):
     #Get full, absolut file path
     file_full_path = os.path.join (user_abs_path, each_file)
-    # TODO: only get docx file
-    file_path_splited = file_full_path.split('.')
-    extend_part = file_path_splited[len(file_path_splited)-1]
-    file_name = file_path_splited[len(file_path_splited)-2].split('/')
-    file_name = file_name[len(file_name)-1]
-    if ( extend_part != 'docx'):
+    if ( not is_extension(file_full_path, 'docx')):
         logging.debug('{0} is not a .docx file\n'.format(file_full_path))
         continue
     file_docx = docx.Document(file_full_path) 
@@ -55,8 +60,6 @@ for each_file in os.listdir(user_abs_path):
         logging.debug('check style: '+user_style +'\n')
         if (user_style in file_docx.styles):
             file_docx.styles[user_style].font.size = Pt(dic_user_style[user_style])
-    # Save as ...-new.docx
-    file_full_path_new = os.path.join(user_abs_path,file_name + '.docx')
-    file_docx.save(file_full_path_new)
-    logging.debug('save new docx file:{0}'.format(file_full_path_new))
+    file_docx.save(file_full_path)
+    logging.debug('save new docx file:{0}'.format(file_full_path))
 input('Program finished. Press any key to quit.')
