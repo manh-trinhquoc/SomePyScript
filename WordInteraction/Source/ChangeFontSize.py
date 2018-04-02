@@ -9,7 +9,7 @@ import docx  # docx module
 from docx.shared import Pt  # font module
 import os  # open file path
 import logging  # logging error
-import re #Regex to find .ext
+import re # regex to find .ext
 
 
 logging.basicConfig(level=logging.DEBUG,
