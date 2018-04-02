@@ -66,4 +66,4 @@ for each_file in os.listdir(user_abs_path):
             file_docx.styles[user_style].font.size = Pt(dic_user_style[user_style])
     file_docx.save(file_full_path)
     logging.debug('save new docx file:{0}'.format(file_full_path))
-input('Program finished. Press any key to quit.')
+print('Program finished')
