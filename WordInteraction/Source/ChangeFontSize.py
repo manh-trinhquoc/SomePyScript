@@ -46,6 +46,7 @@ for count in range(len(list_string)):
         try:
             dic_user_style.update({list_string[count]:int(list_string[count + 1])})
         except:
+            dic_user_style.update({list_string[count]:11})
             pass
 # User input absolute path
 user_abs_path = get_user_path()
