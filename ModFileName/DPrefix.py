@@ -1,5 +1,5 @@
 '''
-Delete number of prefix character in file name.
+Delete a number of charactera in start of file name.
 '''
 import shutil # shutil to change file name. 
 import os # os to get list of all file in folder.

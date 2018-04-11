@@ -1,5 +1,5 @@
 '''
-Delete number of suffix character in file name.
+Delete number of characters in the end of file name.
 '''
 import shutil # shutil to change file name. 
 import os # os to get list of all file in folder.
