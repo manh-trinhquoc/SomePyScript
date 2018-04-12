@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# APrefix.py - Add prefix to all file in folder.
+# APrefix.py - Add prefix to all file and folder in folder.
 
 import shutil #shutil to change file name.
 import os # os to get list of all file in folder.

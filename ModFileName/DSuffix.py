@@ -2,7 +2,7 @@
 Delete number of characters in the end of file name.
 '''
 import shutil # shutil to change file name. 
-import os # os to get list of all file in folder.
+import os # os to get list of all file and folder in folder.
 import logging  # logging error
 
 
