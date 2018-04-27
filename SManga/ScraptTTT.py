@@ -16,16 +16,22 @@ logging.basicConfig(level=logging.DEBUG,
                     format='%(asctime)s - %(levelname)s - %(message)s')
 logging.disable(logging.DEBUG)
 logging.debug('Start of code')
-vietNewsShelf = shelve.open(os.path.join('C:\\001MyPythonScript\\SManga\\DB','SManga'))
+
+cur_dir = os.getcwd()
+file_path = os.path.join(cur_dir,'DB','SManga')
+vietNewsShelf = shelve.open(file_path)
 list_manga_name = []
 for value in vietNewsShelf.values():
     list_manga_name.append(''.join(value).lower())
 url = 'http://truyentranhtuan.com'              # starting url
-os.makedirs('C:/001MyPythonScript/SManga/DB', exist_ok=True)   # store list in ./SManga
-with open('C:/001MyPythonScript/SManga/DB/OldLink.txt','a+') as txt_OldLink:
+file_path = os.path.join(cur_dir,'DB')
+os.makedirs(file_path, exist_ok=True)   # store list in ./SManga
+file_path = os.path.join(cur_dir,'DB','OldLink.txt')
+with open(file_path,'a+') as txt_OldLink:
     pass
 txt_OldLink.close()
-with open('C:/001MyPythonScript/SManga/DB/OldLink.txt','r+') as txt_OldLink:
+file_path = os.path.join(cur_dir,'DB','OldLink.txt')
+with open(file_path,'r+') as txt_OldLink:
     old_links = txt_OldLink.read()
     logging.debug(str(old_links))
     old_links = old_links.split('\n')
@@ -58,7 +64,8 @@ while True:
         manga_link = list_element_manga[1].get('href')
         print('Checking manga: {}'.format(manga_name))
         if manga_link not in old_links:
-            with open('C:/001MyPythonScript/SManga/DB/OldLink.txt','a+') as txt_OldLink:
+            file_path = os.path.join(cur_dir,'DB','OldLink.txt')
+            with open(file_path,'a+') as txt_OldLink:
                 txt_OldLink.write(manga_link + '\n')
             txt_OldLink.close()
             user_command = input('Manga has new chap: {}.\n Open link Y/Default No\n'.format(manga_link))
@@ -66,5 +73,5 @@ while True:
                 webbrowser.open(manga_link)
         else:
             print('Manga: {} has not any new chap'.format(manga_name))
-    print('All manga in {} is checked. Press any key to quit\n'.format(url))
+    print('All manga in {} is checked. Program ended\n'.format(url))
     sys.exit()

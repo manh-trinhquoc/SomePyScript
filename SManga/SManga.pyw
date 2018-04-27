@@ -20,9 +20,16 @@ logging.debug('Start of code')
 # sys.argv.append('HunterX')
 # End of fake input. Comment all out when finish
 
+def SmangaFetch():
+    os.system('python ScraptMobPsycho100.py')
+    os.system('python ScraptOnePunchManOne.py')
+    os.system('python ScraptTTT.py')
+    os.system('python ScraptMangareader.py')
+
 if len(sys.argv) == 1:
     logging.debug('len of sys.argv = 1')
-    os.system('SMangaFetch')
+    #os.system('SMangaFetch')
+    SmangaFetch()
 else:
     logging.debug('len of sys.argv > 1')
     command = ' '.join(sys.argv[1:])

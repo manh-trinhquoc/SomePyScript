@@ -26,7 +26,8 @@ logging.debug('Start of code')
 #sys.argv.append('HunterX')
 # End of fake input. Comment all out when finish
 logging.debug(str(sys.argv))
-vietNewsShelf = shelve.open(os.path.join('C:\\001MyPythonScript\\SManga\\DB','SManga'))
+current_dir = os.getcwd()
+vietNewsShelf = shelve.open(os.path.join(current_dir,'DB','SManga'))
 # TODO: check if path exsist??
 number_of_address = len(vietNewsShelf)
 logging.debug('len(vietNewsShelf) = {}'.format(len(vietNewsShelf)))
