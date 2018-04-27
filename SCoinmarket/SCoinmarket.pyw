@@ -19,6 +19,17 @@ logging.basicConfig(level=logging.DEBUG,
 logging.disable(logging.DEBUG)
 logging.debug('Start of code')
 
+def exec_full(filepath,list_variable):
+    import os
+    global_namespace = {
+        "__file__": filepath,
+        "__name__": "__main__",
+        "each_coin": list_variable[0],
+        "price":list_variable[1]
+    }
+    with open(filepath, 'rb') as file:
+        exec(compile(file.read(), filepath, 'exec'), global_namespace)
+
 # thresole level
 bitcoin_hight = 20000
 bitcoin_low = 10000
@@ -29,13 +40,15 @@ iota_low = 3
 
 url = 'https://coinmarketcap.com/'
 while True:
+    # Show 1 time and quit
     if sys.argv[len(sys.argv)-1] == 'now':
         show_now = True
+    # Show after sleep and continue
     else:
         show_now = False
-        time.sleep(3600)
+        time.sleep(3)
     # Download the page.
-    logging.debug('Checking coinmarket price....')
+    print('Checking coinmarket price....')
     time.sleep(5)
     page_res = requests.get(url)
     try:
@@ -59,15 +72,19 @@ while True:
             float_price = float(price)
             if each_coin == 'id-bitcoin':
                 if float_price > bitcoin_hight or float_price < bitcoin_low:
-                    os.system('printConsole {} {}'.format(each_coin, price))
+                    os.system('python printConsole.py {} {}'.format(each_coin, price))
+                    #exec_full('/home/manh/git/SomePyScript/SCoinmarket/printConsole.py',[each_coin,price])
             elif each_coin == 'id-ethereum':
                 if float_price > ether_hight or float_price < ether_low:
-                    os.system('printConsole {} {}'.format(each_coin, price))
+                    #exec_full('/home/manh/git/SomePyScript/SCoinmarket/printConsole.py',[each_coin,price])
+                    os.system('python printConsole.py {} {}'.format(each_coin, price))
             elif each_coin == 'id-iota':
                 if float_price > iota_hight or float_price < iota_low:
-                    os.system('printConsole {} {}'.format(each_coin, price))
+                    # exec_full('/home/manh/git/SomePyScript/SCoinmarket/printConsole.py',[each_coin,price])
+                    os.system('python printConsole.py {} {}'.format(each_coin, price))
             if show_now == True:
-                os.system('printConsole {} {}'.format(each_coin, price))
+                #exec_full('/home/manh/git/SomePyScript/SCoinmarket/printConsole.py',[each_coin,price])
+                os.system('python printConsole.py {} {}'.format(each_coin, price))
     if show_now == True:
         sys.exit()
-# TODO: save price history with time stamp
+print("program end")

@@ -12,4 +12,7 @@ logging.basicConfig(level=logging.DEBUG,
                     format='%(asctime)s - %(levelname)s - %(message)s')
 logging.disable(logging.DEBUG)
 logging.debug('Start of code')
-input('{} price: {}'.format(sys.argv[1], sys.argv[2]))
+
+command = input('{} price: {}'.format(sys.argv[1], sys.argv[2]))
+#input('{} price: {}'.format(each_coin, price))
+
