@@ -16,7 +16,7 @@ import os  # get directory to database
 import logging  # logging error
 logging.basicConfig(level=logging.DEBUG,
                     format='%(asctime)s - %(levelname)s - %(message)s')
-#logging.disable(logging.DEBUG)
+logging.disable(logging.DEBUG)
 logging.debug('Start of code')
 
 
@@ -27,7 +27,8 @@ logging.debug('Start of code')
 # End of fake input. Comment all out when finish
 logging.debug(str(sys.argv))
 current_dir = os.getcwd()
-vietNewsShelf = shelve.open(os.path.join(current_dir,'DB','SManga'))
+file_path = os.path.join(current_dir,'DB','SManga')
+vietNewsShelf = shelve.open(file_path)
 # TODO: check if path exsist??
 number_of_address = len(vietNewsShelf)
 logging.debug('len(vietNewsShelf) = {}'.format(len(vietNewsShelf)))

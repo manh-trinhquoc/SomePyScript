@@ -14,7 +14,7 @@ logging.disable(logging.DEBUG)
 logging.debug('Start of code')
 
 
-# TODO: create fake input to test
+# create fake input to test
 # sys.argv[0] = 'SManga.pyw'
 # sys.argv.append('List')
 # sys.argv.append('HunterX')
