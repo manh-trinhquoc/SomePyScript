@@ -10,7 +10,7 @@ import os  # get directory to database
 import logging  # logging error
 logging.basicConfig(level=logging.DEBUG,
                     format='%(asctime)s - %(levelname)s - %(message)s')
-#logging.disable(logging.DEBUG)
+logging.disable(logging.DEBUG)
 logging.debug('Start of code')
 
 
@@ -25,6 +25,8 @@ def SmangaFetch():
     os.system('python ScraptOnePunchManOne.py')
     os.system('python ScraptTTT.py')
     os.system('python ScraptMangareader.py')
+    os.system('python ScraptDCBatman2016.py')
+    os.system('python ScraptDCTheFlash2016.py')
 
 if len(sys.argv) == 1:
     logging.debug('len of sys.argv = 1')
@@ -39,3 +41,4 @@ else:
     #logging.debug(os.getcwd())
     #os.system('python SMangaUI.py list')
     os.system(command)
+print('SManga.py end')

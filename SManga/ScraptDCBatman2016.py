@@ -11,22 +11,29 @@ import logging  # logging error
 import shelve  # save list of page to check
 import webbrowser  # open link in browser
 import time # sleep
+from idlelib.browser import file_open
 
 
 logging.basicConfig(level=logging.DEBUG,
                     format='%(asctime)s - %(levelname)s - %(message)s')
 logging.disable(logging.DEBUG)
 logging.debug('Start of code')
-vietNewsShelf = shelve.open(os.path.join('C:\\001MyPythonScript\\SManga\\DB','SManga'))
+
+cur_dir = os.getcwd()
+file_path = os.path.join(cur_dir,'DB','SManga')
+vietNewsShelf = shelve.open(file_path)
 list_manga_name = []
 for value in vietNewsShelf.values():
     list_manga_name.append(''.join(value).lower())
 url = 'http://vietcomic.net/batman_2016-176'              # starting url
-os.makedirs('C:/001MyPythonScript/SManga', exist_ok=True)   # store list in ./SManga
-with open('C:/001MyPythonScript/SManga/DB/OldLink.txt','a+') as txt_OldLink:
+file_path = os.path.join(cur_dir)
+os.makedirs(file_path, exist_ok=True)   # store list in ./SManga
+file_path = os.path.join(cur_dir,'DB','OldLink.txt')
+with open(file_path,'a+') as txt_OldLink:
     pass
 txt_OldLink.close()
-with open('C:/001MyPythonScript/SManga/DB/OldLink.txt','r+') as txt_OldLink:
+file_path = os.path.join(cur_dir,'DB','OldLink.txt')
+with open(file_path,'r+') as txt_OldLink:
     old_links = txt_OldLink.read()
     logging.debug(str(old_links))
     old_links = old_links.split('\n')
@@ -52,7 +59,8 @@ while True:
         # Check manga link in database
         manga_link = list_element_chap[0].get('href')
         if manga_link not in old_links:
-            with open('C:/001MyPythonScript/SManga/DB/OldLink.txt','a+') as txt_OldLink:
+            file_path = os.path.join(cur_dir,'DB','OldLink.txt')
+            with open(file_path,'a+') as txt_OldLink:
                 txt_OldLink.write(manga_link + '\n')
             txt_OldLink.close()
             user_command = input('Manga has new chap: {}.\n Open link Y/Default No\n'.format(manga_link))
@@ -60,5 +68,5 @@ while True:
                 webbrowser.open(manga_link)
         else:
             pass
-    print('All manga in {} is checked. Press any key to quit\n'.format(url))
+    print('All manga in {} is checked. Program end\n'.format(url))
     sys.exit()
