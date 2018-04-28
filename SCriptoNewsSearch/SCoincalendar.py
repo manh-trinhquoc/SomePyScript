@@ -13,7 +13,7 @@ import webbrowser  # open link in browser
 import re  # search keyword in content
 import time  # sleep
 
-logging.basicConfig(filename='programLog.txt', level=logging.DEBUG,
+logging.basicConfig(level=logging.DEBUG,
                     format='%(asctime)s - %(levelname)s - %(message)s')
 logging.disable(logging.DEBUG)
 logging.debug('Start of code')
