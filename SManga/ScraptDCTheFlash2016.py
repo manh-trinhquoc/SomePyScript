@@ -19,7 +19,7 @@ logging.disable(logging.DEBUG)
 logging.debug('Start of code')
 
 cur_dir = os.getcwd()
-file_path = os.path.join(cur_dir,'SManga')
+file_path = os.path.join(cur_dir,'DB','SManga')
 vietNewsShelf = shelve.open(file_path)
 list_manga_name = []
 for value in vietNewsShelf.values():
