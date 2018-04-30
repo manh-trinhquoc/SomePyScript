@@ -38,8 +38,6 @@ with open(file_path,'r+') as txt_OldLink:
     old_links = old_links.split('\n')
 txt_OldLink.close()
 while True:
-    print('This site always be protected by cloudFare:http://mangarock.com/manga/mrs-serie-184984 \n Scrapper skip')
-    sys.exit()
     # Download the page.
     print('Checking manga One punch (one)...')
     time.sleep(5)

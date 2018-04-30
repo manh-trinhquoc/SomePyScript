@@ -27,6 +27,7 @@ def SmangaFetch():
     os.system('python ScraptDCBatman2016.py')
     os.system('python ScraptDCTheFlash2016.py')
     os.system('python ScraptMobPsycho100.py')
+    os.system('python ScraptMangarock.py')
 
 if len(sys.argv) == 1:
     logging.debug('len of sys.argv = 1')
