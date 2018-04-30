@@ -21,13 +21,13 @@ logging.debug('Start of code')
 # End of fake input. Comment all out when finish
 
 def SmangaFetch():
-    os.system('python ScraptOnePunchManOne.py')
     os.system('python ScraptTTT.py')
     os.system('python ScraptMangareader.py')
     os.system('python ScraptDCBatman2016.py')
     os.system('python ScraptDCTheFlash2016.py')
     os.system('python ScraptMobPsycho100.py')
     os.system('python ScraptMangarock.py')
+    os.system('python ScraptOnePunchManOne.py')
 
 if len(sys.argv) == 1:
     logging.debug('len of sys.argv = 1')
