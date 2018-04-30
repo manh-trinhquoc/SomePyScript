@@ -19,6 +19,14 @@ logging.basicConfig(level=logging.DEBUG,
 logging.disable(logging.DEBUG)
 logging.debug('Start of code')
 
+# Modify header for requests
+headers = {
+    'User-Agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+    'Accept':'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+    'Accept-Language':'vi-VN,vi;q=0.9,fr-FR;q=0.8,fr;q=0.7,en-US;q=0.6,en;q=0.5,ko;q=0.4,ja;q=0.3,zu;q=0.2',
+    'Connection':'keep-alive',
+    'Accept-Encoding':'gzip, deflate, br',
+    }
 
 # TODO: create fake input to test
 #sys.argv[0] = 'SManga.py'
