@@ -1,1 +1,0 @@
-@py.exe C:\001MyPythonScript\src\mapIt.py %*
