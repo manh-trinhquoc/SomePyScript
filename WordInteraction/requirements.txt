@@ -1,6 +1,7 @@
+-i https://pypi.python.org/simple/
 certifi==2018.1.18
-lxml==4.2.1
+lxml==4.6.3
 pipenv==11.9.0
 python-docx==0.8.6
-virtualenv==15.2.0
 virtualenv-clone==0.3.0
+virtualenv==15.2.0
