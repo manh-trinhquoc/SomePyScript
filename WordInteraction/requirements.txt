@@ -1,5 +1,5 @@
 certifi==2018.1.18
-lxml==4.2.1
+lxml==4.9.1
 pipenv==11.9.0
 python-docx==0.8.6
 virtualenv==15.2.0
